@@ -49,17 +49,17 @@ src="https://img.shields.io/github/followers/prit1997?style=social" alt="crazych
     <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-  <a href="https://www.linkedin.com/in/zeal-patel/">
+  <a href="https://www.linkedin.com/in/prit-chikawala-b8a319114/">
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-<!--  <a href="https://www.snapchat.com/add/">
+ <a href="https://www.snapchat.com/add/paattel">
     <img src="svg/social/snapchat.svg" alt="snapchat" style="vertical-align:top; margin:6px 4px">
   </a>  
-<a href="https://twitter.com/">
+<a href="https://twitter.com/PChikawala">
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>   
-   <a href="https://www.youtube.com/channel/view_as=subscriber">
+   <a href="https://youtube.com/channel/UCM4RwEtrVfeqZko9uJSZKtw">
     <img src="svg/streaming/youtube.svg" alt="youtube" style="vertical-align:top; margin:6px 4px">
   </a>  -->
 
