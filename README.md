@@ -68,7 +68,7 @@ src="https://img.shields.io/github/followers/prit1997?style=social" alt="crazych
 
 <div align="center">
 
-<h3>If you like what I do, maybe consider buying me a coffee 🥺👉👈</h3>
+<h3>If you like what I do, maybe consider following me 🥺👉👈</h3>
 
-<a href="https://paypal.me/zealp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://instagram.com/paattel" target="_blank"><img src="svg/social/instagram.svg" alt="Follow" width="150" ></a>
 </div>
