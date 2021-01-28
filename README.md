@@ -61,7 +61,7 @@ src="https://img.shields.io/github/followers/prit1997?style=social" alt="crazych
   </a>   
    <a href="https://youtube.com/channel/UCM4RwEtrVfeqZko9uJSZKtw">
     <img src="svg/streaming/youtube.svg" alt="youtube" style="vertical-align:top; margin:6px 4px">
-  </a>  -->
+  </a> 
 
 </p>
 <hr>
