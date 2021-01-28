@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/prit1997?style=social" alt="crazych
     <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-  <a href="https://instagram.com/paattel>
+  <a href="https://instagram.com/paattel">
     <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>  
 
