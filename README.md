@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/prit1997?style=social" alt="crazych
 - 👯 I’m looking to collaborate on any interesting project on Web, Android Development and Deep Learning
 
 - 👨‍💻 More about me will be available at
-  [my personal website](https://zealpatel.ga)
+  [my personal website](https://pritchikawala.ca)
 
 - 💬 Ask me about **New Gadgets, Website Developmemt, CMS, Cloud,
   Tech Reviews and my projects**
