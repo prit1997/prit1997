@@ -1,6 +1,6 @@
 
 <div align="center">
-   <h1 align="center">Hi there, I'm <a href="https://zealpatel.ga/">Prit Chikawala</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1 align="center">Hi there, I'm <a href="https://pritchikawala.ca/">Prit Chikawala</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <h4 align="center"> Graduate Student - Computer Programmer 🧑‍💻 | Passionate Programmer who loves to create websites. </h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prit1997&logoColor=white" /> 
